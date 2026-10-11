@@ -73,7 +73,7 @@ bot = telebot.TeleBot(TOKEN)
 # --- Data structures ---
 bot_scripts = {}
 user_subscriptions = {}
-user_files = {}
+app = Flask(__name__)
 active_users = set()
 admin_ids = {ADMIN_ID, OWNER_ID}
 banned_users = set()
