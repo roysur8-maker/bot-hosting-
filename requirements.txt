@@ -1,3 +1,4 @@
+pyTelegramBotAPI==4.26.0
+requests==2.31.0
 Pyrogram==2.0.106
 Tgcrypto==1.2.5
-requests==2.31.0
