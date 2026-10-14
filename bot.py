@@ -567,8 +567,8 @@ except (TypeError, ValueError):
 BRAND       = "ѕιмяαη нoѕтιηg ＲΒOT"
 BRAND_VER   = "v2.1"
 BRAND_TAG   = f"{BRAND} {BRAND_VER}"
-SUPPORT_USR = "@nur7871"
-UPDATE_CH   = "https://t.me/+MXtA9ufCgok3Yjc1"
+SUPPORT_USR = "@SR_GAMER_PRO"
+UPDATE_CH   = "https://t.me/srgamerpro"
 FOOTER      = f"\n\n<blockquote>{BRAND_TAG}</blockquote>"
 
 # ─── glyphs (smart contextual symbols + emojis for the UI) ──────
